@@ -1,1 +1,3 @@
-#include "sat.dm"
+#define DEBUG
+
+#include "demo\demo.dm"
